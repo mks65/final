@@ -13,3 +13,7 @@
 [submodule "ganHao"]
 	path = ganHao
 	url = https://github.com/haotianGan/finalProject
+[submodule "chenJac_jiangVin_yeCul"]
+	path = chenJac_jiangVin_yeCul
+	url = https://github.com/CullenLYe/project02_final.git
+	branch = main
