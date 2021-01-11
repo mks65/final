@@ -21,3 +21,7 @@
 	path = leeSte_misquittaKri_sahaAbh
 	url = https://github.com/kevidgel/cattleship.git
 	branch = main
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/Battleship.git
+	branch = main
