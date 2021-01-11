@@ -29,3 +29,7 @@
 	path = chanSer_liSun_zhouKel
 	url = https://github.com/schan11/project02.git
 	branch = master
+[submodule "nathMic_siuVic_zhangJin"]
+	path = nathMic_siuVic_zhangJin
+	url = https://github.com/Jinzxc/bashenger.git
+	branch = main
