@@ -33,3 +33,7 @@
 	path = nathMic_siuVic_zhangJin
 	url = https://github.com/Jinzxc/bashenger.git
 	branch = main
+[submodule "siniscalcoFra_vostrikovVla_zhengYul"]
+	path = siniscalcoFra_vostrikovVla_zhengYul
+	url = https://github.com/villinoid/systems_chess.git
+	branch = main
