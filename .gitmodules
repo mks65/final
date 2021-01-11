@@ -2,3 +2,7 @@
 	path = luRan_zhangDev
 	url = https://github.com/dzhang10/finalfrontier.git
 	branch = main
+[submodule "raoIvan_yeGen_zhangAle"]
+	path = raoIvan_yeGen_zhangAle
+	url = https://github.com/irao12/systems_final
+	branch = main
