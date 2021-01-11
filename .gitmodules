@@ -25,3 +25,7 @@
 	path = huLuc
 	url = https://github.com/lhu10/Battleship.git
 	branch = main
+[submodule "chanSer_liSun_zhouKel"]
+	path = chanSer_liSun_zhouKel
+	url = https://github.com/schan11/project02.git
+	branch = master
