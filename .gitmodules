@@ -17,3 +17,7 @@
 	path = chenJac_jiangVin_yeCul
 	url = https://github.com/CullenLYe/project02_final.git
 	branch = main
+[submodule "leeSte_misquittaKri_sahaAbh"]
+	path = leeSte_misquittaKri_sahaAbh
+	url = https://github.com/kevidgel/cattleship.git
+	branch = main
