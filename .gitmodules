@@ -10,3 +10,6 @@
 	path = ahmedTah
 	url = https://github.com/TahsinAhmed13/StickyFingers.git
 	branch = main
+[submodule "ganHao"]
+	path = ganHao
+	url = https://github.com/haotianGan/finalProject
