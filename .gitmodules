@@ -6,3 +6,7 @@
 	path = raoIva_yeGen_zhangAle
 	url = https://github.com/irao12/systems_final
 	branch = main
+[submodule "ahmedTah"]
+	path = ahmedTah
+	url = https://github.com/TahsinAhmed13/StickyFingers.git
+	branch = main
