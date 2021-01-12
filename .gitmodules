@@ -37,3 +37,7 @@
 	path = siniscalcoFra_vostrikovVla_zhengYul
 	url = https://github.com/villinoid/systems_chess.git
 	branch = main
+[submodule "ku-benjetJer_leeLuc"]
+	path = ku-benjetJer_leeLuc
+	url = https://github.com/Lucas-Lee11/project02_final.git
+	branch = main
