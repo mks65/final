@@ -41,3 +41,7 @@
 	path = ku-benjetJer_leeLuc
 	url = https://github.com/Lucas-Lee11/project02_final.git
 	branch = main
+[submodule "hathawayMay_linLei_waldAle"]
+	path = hathawayMay_linLei_waldAle
+	url = https://github.com/mayhathaway/systems-final.git
+	branch = main
