@@ -45,3 +45,7 @@
 	path = hathawayMay_linLei_waldAle
 	url = https://github.com/mayhathaway/systems-final.git
 	branch = main
+[submodule "hernandezCar_hirotaEis_prasadAmi"]
+	path = hernandezCar_hirotaEis_prasadAmi
+	url = https://github.com/AmitPr/ediSON.git
+	branch = master
