@@ -46,10 +46,6 @@
 	path = hernandezCar_hirotaEis_prasadAmi
 	url = https://github.com/AmitPr/ediSON.git
 	branch = master
-[submodule "hamzahMoh_huMic"]
-	path = hamzahMoh_huMic
-	url = https://github.com/GuessHuIAm/finalproject
-	branch = master
 [submodule "ganHao"]
 	path = ganHao
 	url = https://github.com/haotianGan/finalProject
