@@ -50,3 +50,7 @@
 	path = ganHao
 	url = https://github.com/haotianGan/finalProject
 	branch = main
+[submodule "hamzahMoh_huMic"]
+	path = hamzahMoh_huMic
+	url = https://github.com/GuessHuIAm/bleatcode/
+	branch = master
